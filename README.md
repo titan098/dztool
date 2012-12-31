@@ -13,6 +13,7 @@ To decode a DZ file, the input file ```inputfilename.dz``` will be decoded and t
 This will output a number of component files into the directory ```dir```, including a configuration file that can be used to reconstruct the dz file from the components. *Please note that you must be in the output directory for this command to work.*
 
 To create a DZ file from the decoded components the following command can be used:
+
 	./python dztool.py -m create
 
 This will output a compiled dz firmware file ```outfile.dz```.
