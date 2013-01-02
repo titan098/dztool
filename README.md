@@ -3,6 +3,8 @@ LG DZ Firmware Decoding Script
 
 This is a simple python script to decode LG DZ firmware files, such as those found in Windows 7 Phones. This script probably does not do anything other than decode the firmware files and output the components, the recreated firmware files are probably non-functional. *Do not try to flash the recompiled firmware file to a device.*
 
+More information can be found here: [http://www.ide.za.net/2013/01/02/dztool/](http://www.ide.za.net/2013/01/02/dztool/)
+
 Usage
 -----
 
